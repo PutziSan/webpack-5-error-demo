@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "webpack",
+    "serve": "serve ."
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "serve": "^11.1.0",
+    "webpack": "^5.0.0-alpha.18"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  }
+}
